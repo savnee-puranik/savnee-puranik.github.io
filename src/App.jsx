@@ -8,6 +8,9 @@ function App() {
   return (
     <Router>
       <div className="App">
+        <title>
+          Crafted by Savnee
+        </title>
         <header>
           <h1>Crafted by Savnee</h1>
           <p>Engineering Student | Dancer | Matcha Enthusiast</p>
@@ -29,9 +32,9 @@ function App() {
 
         <section id="socials">
           <div className="social-icons">
-            <a href="https://www.linkedin.com/in/savnee-puranik/" target="_blank" rel="noopener noreferrer">
-              <img src="linkedin-icon.png" alt="LinkedIn" />
-            </a>
+          <a href="https://www.linkedin.com/in/savnee-puranik/" target="_blank" rel="noopener noreferrer">
+            <img className="social-icon" src="linkedin-icon.png" alt="LinkedIn" />
+          </a>
           </div>
         </section>
       </div>

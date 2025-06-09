@@ -3,7 +3,7 @@
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 20vmin;
   pointer-events: none;
 }
 
@@ -91,6 +91,31 @@ nav ul li a {
 nav ul li a:hover {
   color: #007BFF;
 }
+
+.project-images img {
+  width: 150px; /* or use max-width: 100%; for responsiveness */
+  height: auto;
+  object-fit: cover; /* optional: crops instead of squishing */
+  margin: 5px;       /* optional: adds spacing between images */
+  border-radius: 8px; /* optional: for rounded corners */
+}
+
+.social-icon {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+}
+
+
+
+.profile-pic {
+  width: 100px; /* Adjust the size of the image */
+  height: 100px; /* Adjust the size of the image */
+  border-radius: 50%; /* Make the image circular */
+  margin-right: 20px; /* Adds space between the image and text */
+}
+
+
 
 
 
