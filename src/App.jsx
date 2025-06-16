@@ -13,7 +13,7 @@ function App() {
         </title>
         <header>
           <h1>Crafted by Savnee</h1>
-          <p>Engineering Student | Dancer | Matcha Enthusiast</p>
+          <p>Engineering Student | Dancer | Cafe Enthusiast</p>
         </header>
 
         <nav>
