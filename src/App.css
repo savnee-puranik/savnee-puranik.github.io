@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #b9dca9;
+  background-color: #d7ebcd;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -41,11 +41,11 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #b9dca9;
+  background-color: #d7ebcd;
 }
 
 header {
-  background-color: #889e19;
+  background-color: #b9dca9;
   color: white;
   padding: 20px;
   text-align: center;
