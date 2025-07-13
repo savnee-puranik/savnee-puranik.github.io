@@ -22,8 +22,8 @@ const projects = [
     ],
   },
   {
-    title: "Engineering Building Room of Requirement",
-    description: "My group and I were tasked with designing a space in the new engineering that solves a problem that Columbia stakeholders care about. Our problem to solve was agency, and our solution is a futuristic and innovtaive space that fosters creativity and agency, while providing students with the exact resources they need to succeed. Our product is called the Room of Requirement (R.O.R.). ",
+    title: "Engineering Building Design",
+    description: "My group and I were tasked with designing a space in the new engineering that solves a problem that Columbia stakeholders care about. Our problem to solve was agency, and our solution is a futuristic and innovtaive space that fosters creativity and agency, while providing students with the exact resources they need to succeed. Our product is called the Room of Requirement (R.O.R.) ",
     link: "https://github.com/savnee-puranik/RoomOfRequirement",
     image: "/images/ROR.png",
     video: "/videos/HCDFinalVideo.mp4"

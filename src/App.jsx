@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
 import './App.css';
 import Home from './pages/Home';
 import Projects from './pages/Project';
+import Resume from './pages/Resume';
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
           <ul>
             <li><Link to="/">Home</Link></li>
             <li><Link to="/projects">Projects</Link></li>
+            <li><Link to="/resume">Resume</Link></li>
           </ul>
         </nav>
 
@@ -27,6 +29,7 @@ function App() {
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/projects" element={<Projects />} />
+            <Route path="/resume" element={<Resume />} />
           </Routes>
         </main>
 
